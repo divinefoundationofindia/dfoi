@@ -43,7 +43,7 @@ export function AboutSection() {
               {/* Main Image */}
               <div className="relative aspect-[4/3] rounded-3xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/images/about-team.jpg"
+                  src="./images/tree.jpeg"
                   alt="Divine Foundation Team"
                   fill
                   className="object-cover"
